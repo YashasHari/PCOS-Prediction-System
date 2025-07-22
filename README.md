@@ -124,6 +124,10 @@ PCOS/
 
 ---
 
+## 🖼️ Web Application UI
+
+![Home Page](https://github.com/user-attachments/assets/4750adad-32a3-49f9-bf88-9f58b34082e2)
+
 ## 📌 Notes
 
 * This system is intended for research, experimentation, and education.
